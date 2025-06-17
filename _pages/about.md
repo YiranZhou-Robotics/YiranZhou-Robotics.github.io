@@ -15,12 +15,6 @@ profile:
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
-academic_service:
-  enabled: true
-  scrollable: true
-  limit: 3
-  file: academic_service
-
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
@@ -33,6 +27,14 @@ latest_posts:
 ---
 
 I am a third-year PhD candidate at the <a href="https://www.uts.edu.au/research/centres/robotics-institute">Robotics Institute</a>, University of Technology Sydney, supervised by <a href="https://www.research.ed.ac.uk/en/persons/liang-zhao">A/Prof. Liang Zhao</a> and <a href="https://profiles.uts.edu.au/Shoudong.Huang">Prof. Shoudong Huang</a>. My research focuses on autonomous robotics—specifically, simultaneous localization and mapping (SLAM), 3D reconstruction, and state estimation algorithms.
+
+## Academic Services
+
+### Conference Reviewer
+- IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) in 2025
+
+<!-- ### Journal Reviewer
+- TRO -->
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
