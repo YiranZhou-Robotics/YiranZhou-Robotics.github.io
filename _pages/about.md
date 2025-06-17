@@ -28,9 +28,9 @@ latest_posts:
 
 I am a third-year PhD candidate at the <a href="https://www.uts.edu.au/research/centres/robotics-institute">Robotics Institute</a>, University of Technology Sydney, supervised by <a href="https://www.research.ed.ac.uk/en/persons/liang-zhao">A/Prof. Liang Zhao</a> and <a href="https://profiles.uts.edu.au/Shoudong.Huang">Prof. Shoudong Huang</a>. My research focuses on autonomous robotics—specifically, simultaneous localization and mapping (SLAM), 3D reconstruction, and state estimation algorithms.
 
-## Academic Services
+### Academic Services
 
-### Conference Reviewer
+**Conference Reviewer**
 - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) in 2025
 
 <!-- ### Journal Reviewer
