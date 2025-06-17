@@ -37,21 +37,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "dropdown-bookshelf",
-              title: "bookshelf",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/books/";
-              },
-            },{id: "dropdown-blog",
-              title: "blog",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/blog/";
-              },
-            },{id: "post-a-post-with-plotly-js",
+        },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
@@ -419,16 +405,18 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
+            },},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-announcement-3",
+          title: 'Announcement_3',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_3/";
+            },},{id: "news-our-paper-correspondence-free-multiview-point-cloud-registration-via-depth-guided-joint-optimisation-was-accepted-by-iros-2025-congratulations-to-yingyu-wang",
+          title: 'Our paper Correspondence-Free Multiview Point Cloud Registration via Depth-Guided Joint Optimisation was accepted...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
