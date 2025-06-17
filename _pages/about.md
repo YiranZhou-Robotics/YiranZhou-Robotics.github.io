@@ -2,16 +2,17 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://www.uts.edu.au/'>University of Technology Sydney</a>. 15 Broadway, Ultimo NSW 2007, Australia.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  # image: prof_pic.jpg
+  image: YiranZhouAbout.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p><a href="mailto:yiran.zhou-1@student.uts.edu.au">Email</a></p>
+    <p><a href="https://scholar.google.com/citations?user=MmLEw6EAAAAJ">Google Scholar</a></p>
+    <p><a href="https://github.com/YiranZhou-Robotics">GitHub</a></p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
