@@ -13,7 +13,7 @@ profile:
     <p><a href="mailto:yiran.zhou-1@student.uts.edu.au">Email</a>|<a href="https://scholar.google.com/citations?user=MmLEw6EAAAAJ">Google Scholar</a>|<a href="https://github.com/YiranZhou-Robotics">GitHub</a></p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 
 announcements:
   enabled: true # includes a list of news items
@@ -28,9 +28,11 @@ latest_posts:
 
 I am a third-year PhD candidate at the <a href="https://www.uts.edu.au/research/centres/robotics-institute">Robotics Institute</a>, University of Technology Sydney, supervised by <a href="https://www.research.ed.ac.uk/en/persons/liang-zhao">A/Prof. Liang Zhao</a> and <a href="https://profiles.uts.edu.au/Shoudong.Huang">Prof. Shoudong Huang</a>. My research focuses on autonomous robotics—specifically, simultaneous localization and mapping (SLAM), 3D reconstruction, and state estimation algorithms.
 
+<br>
+
 ### Academic Services
 
-**Conference Reviewer：**
+**Conference Reviewer:**
 
 - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) in 2025
 
