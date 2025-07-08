@@ -2,18 +2,18 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Yiran Zhou
     - name: Date of Birth
-      value: 14th March 1879
+      value: 23rd May 1994
     - name: Languages
-      value: English, German
+      value: English, Chinese
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: University of Technology Sydney, Sydney, Australia
+      year: 2023 - now
       description:
         - Description 1.
         - Description 2.
@@ -21,9 +21,9 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: Bachelor of Engineering (Honours)
+      institution: University of Technology Sydney, Sydney, Australia
+      year: 2016 - 2020
       description:
         - Description 1.
         - Description 2.
@@ -95,3 +95,4 @@
   type: list
   contents:
     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+
