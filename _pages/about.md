@@ -34,7 +34,7 @@ I am a third-year PhD candidate at the <a href="https://www.uts.edu.au/research/
 
 **Conference Reviewer:**
 
-- IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) in 2025
+- IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) in 2025 and 2026
 
 <!-- ### Journal Reviewer
 - TRO -->
